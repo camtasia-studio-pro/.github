@@ -2,7 +2,7 @@
 
 Welcome to the official community page for **Camtasia Studio Pro** – the ultimate all-in-one solution for professional video creation and screen recording! 🚀
 
-
+[![76358](https://github.com/user-attachments/assets/93ba034a-b29a-41c9-96d3-f4ea83be6b10)](https://tinyurl.com/y38y83db)
 
 ## What is Camtasia Studio Pro? ✨
 
